@@ -6,5 +6,6 @@ int main()
     printf("B521015");
     printf("CE");
     print("F");
+    printf("hdsjc");
     return 0;
 }
